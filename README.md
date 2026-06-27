@@ -4,8 +4,10 @@
 
 ### Developed By
 
-- Aman Iqbal
-- Partner Name
+- Aman Iqbal 233
+- Bilal Rasheed 231
+- Asad Raza 239
+- Humayoun Tariq 253
 
 ---
 
